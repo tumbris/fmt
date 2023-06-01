@@ -1,5 +1,3 @@
-local config = require "../../premake/config"
-
 project "lib_fmt"
     kind "StaticLib"
     language "C++"
